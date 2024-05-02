@@ -1,15 +1,14 @@
 # Wine Statistics Calculator
-**Description**
-This web application calculates statistics for Flavanoids and Gamma levels in different classes of wine samples. It provides visual representations of the statistical data to facilitate analysis.
+**Description** : This web application calculates statistics for Flavanoids and Gamma levels in different classes of wine samples. It provides visual representations of the statistical data to facilitate analysis.
 **Features**
-Calculate statistics for Flavanoids and Gamma levels.
-Visual representation of statistical data.
-Supports multiple classes of wine samples.
+1. Calculate statistics for Flavanoids and Gamma levels.
+2. Visual representation of statistical data.
+3. Supports multiple classes of wine samples.
 
 **Technologies Used**
-React.js
-Mantine
-Typescript
+1. React.js
+2. Mantine
+3. Typescript
 
 **Installation**
 1. Clone the repository: https://github.com/Rajan123-chaubey/manufac--assign.git (master branch)

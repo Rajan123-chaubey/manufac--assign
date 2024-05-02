@@ -14,6 +14,7 @@
 **Installation**
 1. Clone the repository: https://github.com/Rajan123-chaubey/manufac--assign.git (master branch)
 2. Install dependencies: yarn install
+   
 **Usage**
 1. Start the development server: yarn dev
 2. Open your web browser and navigate to: http://localhost:5173

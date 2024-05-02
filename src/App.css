@@ -1,0 +1,37 @@
+/* App.css */
+
+/* Style for the container */
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  /* Style for the tables */
+  table {
+    border-collapse: collapse;
+    width: 80%;
+    margin-bottom: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  /* Sticky header style */
+  caption {
+    padding: 10px;
+    font-weight: bold;
+  }
+  
